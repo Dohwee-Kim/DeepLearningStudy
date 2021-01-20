@@ -1,7 +1,7 @@
 Personal # DeepLearningStudy space
 
-TensorFlow framework practice
- - week : basic SGD, with loss function
+- TensorFlow framework practice
+   week1 : basic SGD, with loss function
 
-1. Vectorization practice 
-2. CNN , R-CNN implement. 
+- Vectorization practice 
+- CNN , R-CNN implement. 
